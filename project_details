@@ -1,0 +1,4 @@
+The project imitates the normal NLP uses.
+I have used Streamlit here to show the results in a server.
+The sentiment analysis has been done using sklearn logistic regression.
+for clearing the text i have used neattext package. 
